@@ -203,7 +203,7 @@ button {
 .detail {
   display: flex;
   flex-wrap: wrap;
-  width: 90%;
+  width: 93%;
   margin: 2rem auto;
   justify-content: space-between;
   align-items: center;
