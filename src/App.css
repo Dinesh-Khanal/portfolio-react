@@ -302,7 +302,7 @@ button {
 .mongo {
   width: 75%;
 }
-.php {
+.express {
   width: 80%;
 }
 .sql {
@@ -376,6 +376,34 @@ tr td {
 #footer .right {
   font-size: 14px;
   text-align: center;
+}
+#slide {
+  color: #c7c40c;
+  position: relative;
+}
+#slide > * {
+  visibility: hidden;
+  position: absolute;
+  top: 0;
+  left: 0;
+  animation: 6s autoplay infinite;
+}
+#slide > *:nth-child(1) {
+  animation-delay: 0s;
+}
+#slide > *:nth-child(2) {
+  animation-delay: 2s;
+}
+#slide > *:nth-child(3) {
+  animation-delay: 4s;
+}
+@keyframes autoplay {
+  0% {
+    visibility: visible;
+  }
+  33.33% {
+    visibility: hidden;
+  }
 }
 /* for mobile device */
 @media (max-width: 760px) {

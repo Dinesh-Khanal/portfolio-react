@@ -63,10 +63,10 @@ const Skills = () => {
             <div className="mongo"></div>
           </div>
           <h3>
-            PHP<span>80%</span>
+            Express<span>80%</span>
           </h3>
           <div className="hr">
-            <div className="php"></div>
+            <div className="express"></div>
           </div>
           <h3>
             MySql<span>80%</span>

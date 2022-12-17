@@ -57,7 +57,12 @@ const Heading = () => {
         <p>Hello, my name is</p>
         <h1>Dinesh Khanal</h1>
         <h3>
-          and I'm a <span id="tpd"></span>
+          and I'm a &nbsp;
+          <span id="slide">
+            <span>Freelancier</span>
+            <span>Developer</span>
+            <span>Designer</span>
+          </span>
         </h3>
         <button>Hire me</button>
       </div>
