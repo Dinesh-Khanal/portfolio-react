@@ -11,24 +11,24 @@ const Services = () => {
           <i className="fa fa-paint-brush" aria-hidden="true"></i>
           <h2>Web Design</h2>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum,
-            optio.consectetur adipisicing elit.
+            We design attractive website and web application with appropriate
+            design and user experience.
           </p>
         </div>
         <div className="card">
           <i className="fa fa-line-chart" aria-hidden="true"></i>
           <h2>Web Development</h2>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum,
-            optio.consectetur adipisicing elit.
+            We develope reliable web application with appropriate security
+            measure.
           </p>
         </div>
         <div className="card">
           <i className="fa fa-mobile" aria-hidden="true"></i>
           <h2>Mobile App Dev.</h2>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorum,
-            optio.consectetur adipisicing elit.
+            We also developes application for mobile device (smartphone and
+            tablet computer) running android and ios.
           </p>
         </div>
       </div>

@@ -13,11 +13,12 @@ const About = () => {
         <div className="other">
           <h3>I am Dinesh Khanal and I'm from Nepal</h3>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam
-            reiciendis eum incidunt, doloremque natus ut asperiores, quae fuga
-            numquam consequatur quasi. Possimus sunt nulla doloribus nam unde
-            excepturi iure eligendi. Lorem ipsum dolor sit amet consectetur
-            adipisicing elit.
+            I am a professional full stack web developer. I develpe web
+            application using react, typescript, node js, express, mongodb.
+            Client satisfaction is my primary motto. Coding and programming is
+            also my hobby. I always enjoy creating new things. Thanks for
+            reviewing my portfolio page. I will try my best if you provide an
+            oppertunity to work for you.
           </p>
           <button>Download CV</button>
         </div>

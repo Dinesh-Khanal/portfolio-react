@@ -37,18 +37,18 @@ const Contact = () => {
             <tbody>
               <tr>
                 <td>Email</td>
-                <td>contactus@example.com</td>
+                <td>dineshkhanal@gmail.com</td>
               </tr>
               <tr>
                 <td>Phone</td>
-                <td>+977-984123456</td>
+                <td>+977-9861915685</td>
               </tr>
               <tr>
                 <td>Address</td>
                 <td>
-                  2/47, Badigyan Tole
+                  Dhapasi, Tokha municipality
                   <br />
-                  Tansen, Palpa
+                  Kathmandu, Nepal
                 </td>
               </tr>
             </tbody>

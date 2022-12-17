@@ -10,12 +10,17 @@ const Skills = () => {
         <div className="left">
           <h3>My creative skills & experience</h3>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorum
-            ipsa voluptates minima doloribus ratione, corporis distinctio quod
-            consectetur quas rerum nisi cumque officiis quidem similique
-            incidunt iure ducimus maxime laborum. Dolorum ipsa voluptates minima
-            doloribus ratione, corporis distinctio quod consectetur quas rerum
-            nisi cumque officiis quidem similique incidunt.
+            Over 5 year of experience in designing, developing, and managing web
+            application. Expertise in build responsive web application, mobile
+            apps, and interactive features for improved UX. Proficient in HTML,
+            CSS, Javascript / Typescript, React, Node.js, MongoDB and Mongoose,
+            Express. Working with RESTful APIs, GraphQL, payment gateway such as
+            stripe and PayPal. Knowledge of CI/CD (with GitHub Action) and
+            Docker container. Excellent debugging and troubleshooting skills,
+            experienced in remote working Good communication and interpersonal
+            skills to work within the team and maintain great customer
+            relationship Quick learner and always up to date with the new
+            technology updates
           </p>
           <button>Read More</button>
         </div>
