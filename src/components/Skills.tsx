@@ -12,8 +12,8 @@ const Skills = () => {
           <p>
             Over 5 year of experience in designing, developing, and managing web
             application. Expertise in build responsive web application, mobile
-            apps, and interactive features for improved UX. Proficient in HTML,
-            CSS, Javascript / Typescript, React, Node.js, MongoDB and Mongoose,
+            apps, and interactive features for improved UX. Proficient in CSS, 
+            Javascript / Typescript, React, Node.js, Next Js, MongoDB and Mongoose,
             Express. Working with RESTful APIs, GraphQL, payment gateway such as
             stripe and PayPal. Knowledge of CI/CD (with GitHub Action) and
             Docker container. Excellent debugging and troubleshooting skills,
@@ -25,12 +25,6 @@ const Skills = () => {
           <button>Read More</button>
         </div>
         <div className="right">
-          <h3>
-            HTML<span>90%</span>
-          </h3>
-          <div className="hr">
-            <div className="html"></div>
-          </div>
           <h3>
             CSS<span>90%</span>
           </h3>
@@ -48,6 +42,12 @@ const Skills = () => {
           </h3>
           <div className="hr">
             <div className="react"></div>
+          </div>
+          <h3>
+            Next Js<span>90%</span>
+          </h3>
+          <div className="hr">
+            <div className="html"></div>
           </div>
           <h3>
             React Native<span>70%</span>
